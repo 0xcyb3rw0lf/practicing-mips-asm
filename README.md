@@ -7,4 +7,5 @@ List of Programs to practice:
 [] Read/Print String  
 [] Read/Print Integers  
 [] Bubble Sort  
-
+[] Add and Subract Two Integers  
+[] Divide Two Integers, Get Remainder and Quotient  
