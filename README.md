@@ -4,7 +4,7 @@ This repository is to practice MIPS assembly code as part of the **Computer Orga
 
 List of Programs to practice:  
 [] Linear Search  
-[] Read/Print String  
+[X] Read/Print String  
 [] Read/Print Integers  
 [] Bubble Sort  
 [] Add and Subract Two Integers  
