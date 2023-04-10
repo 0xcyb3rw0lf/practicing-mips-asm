@@ -9,3 +9,4 @@ List of Programs to practice:
 [] Bubble Sort  
 [] Add and Subract Two Integers  
 [] Divide Two Integers, Get Remainder and Quotient  
+[X] formula-1 (basic addition and subtraction + load and store from memory)
