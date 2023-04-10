@@ -1,10 +1,11 @@
-# OMAR ELDANASOUEY
 # GITHUB: omar-danasoury
+# LINKEDIN: omar-eldanasoury
 # PRACTICING INPUT AND OUTPUT OF STRINGS
 .data
 msg: .asciiz 	"What is your name? (No More than 10 Letters)\n"
 name: .SPACE  10 # Reserving 10 character spaces for the entered name
 outMsg: .asciiz "Ramadan Mubarak, "
+
 
 .text
 .globl main
