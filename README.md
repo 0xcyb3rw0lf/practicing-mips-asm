@@ -3,8 +3,8 @@
 This repository is to practice MIPS assembly code as part of the **Computer Organization and Assembly** course "ITCS 321."  
 
 List of Programs to practice:  
-[x] Linear Search  
-[X] Read/Print String  
+([x]) Linear Search  
+([X]) Read/Print String  
 [] Read/Print Integers  
 [] Bubble Sort  
 [] Add and Subract Two Integers  
